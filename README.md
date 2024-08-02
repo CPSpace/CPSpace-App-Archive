@@ -18,7 +18,7 @@ To create a client for your CPPS using this source you will need: Git, Node.js.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CPSpace/cpspace_app
+git clone https://github.com/CPSpace/CPSpace-App
 ```
 
 2. Install Node dependencies:
