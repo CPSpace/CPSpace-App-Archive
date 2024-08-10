@@ -12,8 +12,8 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 */
 
-function redirect(){window.location.href = 'https://play.cpspace.net';}
-window.addEventListener('DOMContentLoaded', () => {
-  var url = window.location.href;
-    if(url.includes('cpspace.net') == false){redirect();}
-  });
+// function redirect(){window.location.href = 'https://play.cpspace.net';}
+// window.addEventListener('DOMContentLoaded', () => {
+//   var url = window.location.href;
+//     if(url.includes('cpspace.net', 'discord.com', 'discord.gg') == false){redirect();}
+//   });

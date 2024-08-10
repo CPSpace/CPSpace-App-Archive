@@ -38,6 +38,7 @@ function createWindow () {
     }
   });
   mainWindow.setMenu(null);
+  mainWindow.webContents.openDevTools();
   clearCache();
   mainWindow.loadURL('https://play.cpspace.net');
   
